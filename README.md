@@ -76,7 +76,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="1600" height="560" alt="image" src="https://github.com/user-attachments/assets/14561348-f400-4c30-8ef1-68a5bf8dd8e6" />
 
   **GRAPH:**
-<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/1a2de2c7-2cba-44cd-97ad-5a6b711d1330" />
+<img width="975" height="1600" alt="image" src="https://github.com/user-attachments/assets/c93fccb3-6ff2-4ee1-b040-ae566a8fd72a" />
+
 
 
 **DIFFERENTIATOR:**
@@ -91,7 +92,8 @@ We get, CF = (1.59*103*10-7) / 15.9*103
 <img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/5224149f-c410-4ae9-8ff5-86875d590561" />
 
   **TABULATION:**
-<img width="975" height="1600" alt="image" src="https://github.com/user-attachments/assets/d38df19b-d17f-44f8-8dc7-47d8e569d2ed" />
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/ca7213f1-2665-44b9-9c86-a89209569cf5" />
+
 
 
    **GRAPH:**
