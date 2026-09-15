@@ -63,26 +63,39 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+<img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/83dd1372-31fa-41ea-8682-3439d6322501" />
 
 
   **MODEL GRAPH:**
+<img width="587" height="360" alt="image" src="https://github.com/user-attachments/assets/a3629093-aff0-4ac1-8660-94323a28164c" />
+<img width="762" height="472" alt="image" src="https://github.com/user-attachments/assets/e8a38213-b233-4548-8ded-1840469735b1" />
 
 
   **TABULATION:**
  
+<img width="1600" height="560" alt="image" src="https://github.com/user-attachments/assets/14561348-f400-4c30-8ef1-68a5bf8dd8e6" />
 
-**MODEL CALCULATION:**
+  **GRAPH:**
+<img width="1600" height="700" alt="image" src="https://github.com/user-attachments/assets/1a2de2c7-2cba-44cd-97ad-5a6b711d1330" />
+
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+<img width="636" height="367" alt="image" src="https://github.com/user-attachments/assets/4bb8bd2e-7211-41e9-8559-dfa393873abd" />
+
 
 
   **MODEL GRAPH:**
 
+<img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/0dee0e4d-42f1-4d0d-9a9f-b574bd4075e9" />
+<img width="451" height="552" alt="image" src="https://github.com/user-attachments/assets/5224149f-c410-4ae9-8ff5-86875d590561" />
 
   **TABULATION:**
+<img width="975" height="1600" alt="image" src="https://github.com/user-attachments/assets/d38df19b-d17f-44f8-8dc7-47d8e569d2ed" />
 
- 
+
+   **GRAPH:**
+<img width="1253" height="1599" alt="image" src="https://github.com/user-attachments/assets/4f3c5ce7-738a-4542-bdb4-ac5d5792e479" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +108,20 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+
+  **INTEGRATOR SINE WAVE:**
+
+  <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/0232eb88-44df-4f25-8c6f-da19836601b1" />
+
+  **SQUARE WAVE:**
+
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/70f03ad8-0786-465b-b756-25610b7a1c91" />
+
+**DIFFERENTIATOR SINE WAVE:**
+
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/b47a5528-a73b-456e-bdcc-8cf95e3be6d5" />
+ **SQUARE WAVE:**
+ <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/3686f14d-2827-4861-a750-dbd1e3f6bef4" />
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
